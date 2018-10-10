@@ -1,0 +1,8 @@
+.git
+.idea
+*.db
+logs
+spec/data
+pkg
+*.tmp
+*.bak
