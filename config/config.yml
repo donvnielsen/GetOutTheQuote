@@ -1,0 +1,9 @@
+dev: &dev
+  datadir: /home/dvn/Documents/roehl_app_catalog_test_data
+  dbdir: db
+development: *dev
+
+test: &test
+  datadir: /home/dvn/Documents/roehl_app_catalog_test_data
+  dbdir: db
+
