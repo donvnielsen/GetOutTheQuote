@@ -89,7 +89,6 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 5.2)
-  nokogiri (~> 1.8)
   rspec (~> 3.7)
   rspec-mocks (~> 3.7)
   rspec-rails (~> 3.7)

@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'nokogiri', '~> 1.8'
 gem 'activerecord', '~> 5.2'
 gem 'ruby-progressbar', '~> 1.9'
 
